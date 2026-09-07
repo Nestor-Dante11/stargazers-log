@@ -1,0 +1,34 @@
+[
+  {
+    "repository": "microsoft/vscode",
+    "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
+    "language": "TypeScript",
+    "stars": "168k",
+    "url": "https://github.com/microsoft/vscode",
+    "starredOn": "2026-08-28"
+  },
+  {
+    "repository": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "language": "Markdown",
+    "stars": "410k",
+    "url": "https://github.com/sindresorhus/awesome",
+    "starredOn": "2026-08-14"
+  },
+  {
+    "repository": "vercel/next.js",
+    "description": "The React framework for the web, used by some of the world's largest companies.",
+    "language": "JavaScript",
+    "stars": "133k",
+    "url": "https://github.com/vercel/next.js",
+    "starredOn": "2026-07-31"
+  },
+  {
+    "repository": "tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapidly building custom user interfaces.",
+    "language": "CSS",
+    "stars": "89k",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "starredOn": "2026-07-09"
+  }
+]
